@@ -1,4 +1,4 @@
-# purwadhika
+# Purwadhika - Simple Python Program
 Hello, perkenalkan nama saya Yohanna Inawati
 Repository ini berisi program tugas dari Purwadhika
 
